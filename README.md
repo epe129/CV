@@ -1,1 +1,22 @@
 # CV
+Eemeli Kaisto
+Ohjelmistokehityksen opiskelija
+
+# Profiili
+Olen innokas ohjelmistokehityksen opiskelija, koodi harjoitan melkein päivittäin.
+
+# Taitoalueet
+- HTML, CSS, Javascript
+- Python, Flask
+- SQL
+
+# Koulutus 
+Tieto- ja viestintätekniikan perustutkinto, Ohjelmistokehittäjä, Ammattiopisto Luovi, 2025 – 2028 (käynnissä)
+
+# Kielet
+- Suomi (äidinkieli)
+- Englanti
+
+# Ota yhteyttä
+- Sähköposti: eemeli.kaisto@oppi.luovi.fi
+  
