@@ -1,5 +1,4 @@
-# CV
-Eemeli Kaisto
+# Eemeli Kaisto
 Ohjelmistokehityksen opiskelija
 
 # Profiili
