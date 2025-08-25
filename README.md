@@ -12,10 +12,12 @@ Olen innokas ohjelmistokehityksen opiskelija, koodi harjoitan melkein päivittä
 # Koulutus 
 Tieto- ja viestintätekniikan perustutkinto, Ohjelmistokehittäjä, Ammattiopisto Luovi, 2025 – 2028 (käynnissä)
 
+# Projektit
+
 # Kielet
 - Suomi (äidinkieli)
 - Englanti
 
 # Ota yhteyttä
-- Sähköposti: eemeli.kaisto@oppi.luovi.fi
+- Sähköposti: eemelik985@gmail.com
   
