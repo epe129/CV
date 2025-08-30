@@ -13,7 +13,7 @@ Olen innokas ohjelmistokehityksen opiskelija, koodi harjoitan melkein päivittä
 Tieto- ja viestintätekniikan perustutkinto, Ohjelmistokehittäjä, Ammattiopisto Luovi, 2025 – 2028 (käynnissä)
 
 # Projektit
-https://github.com/epe129/DifferentProjects
+https://github.com/epe129/Projects
 
 # Kielet
 - Suomi (äidinkieli)
