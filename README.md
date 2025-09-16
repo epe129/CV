@@ -6,7 +6,7 @@ Olen innokas ohjelmistokehityksen opiskelija, koodi harjoitan melkein päivittä
 
 # Taitoalueet
 - HTML, CSS, Javascript
-- Python, Flask
+- Python, Flask, django
 - SQL
 
 # Koulutus 
