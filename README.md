@@ -7,7 +7,7 @@ Olen innokas ohjelmistokehityksen opiskelija, koodi harjoitan melkein päivittä
 # Taitoalueet
 - HTML, CSS, Javascript
 - Python, Flask
-- SQL
+- SQL, PHP
 
 # Koulutus 
 Tieto- ja viestintätekniikan perustutkinto, Ohjelmistokehittäjä, Ammattiopisto Luovi, 2025 – 2028 (käynnissä)
